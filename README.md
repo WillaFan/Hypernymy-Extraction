@@ -26,7 +26,7 @@ Each module mainly consists of data, preprocess, model, evaluator part. An *Unti
 ## Training
 Here are some selected training procedure.
 - Projection learning training loss (left)
-- Bi-LSTM sequence labeling model training (right)
+- Bi-LSTM sequence labeling model training score (right)
 
 <div align="centert">
 <img src="https://github.com/WillaFan/hypernymy-extraction/blob/master/projection/loss.png" width="400" alt="proj_loss" >
