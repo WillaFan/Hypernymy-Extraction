@@ -1,0 +1,10 @@
+Train score: 0.9301366331528744
+Test score: 0.9206185567010309
+              precision    recall  f1-score   support
+
+           0       0.96      0.95      0.96      2641
+           1       0.57      0.61      0.59       269
+
+    accuracy                           0.92      2910
+   macro avg       0.76      0.78      0.77      2910
+weighted avg       0.92      0.92      0.92      2910

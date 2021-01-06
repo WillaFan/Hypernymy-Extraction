@@ -1,0 +1,9 @@
+
+
+# SemEval2018-Task9
+# Guideline: download and unzip SemEval2018-Task9 dataset, put it under data folder.
+https://docs.google.com/uc?export=download&id=1qc812LUPMfcGTsH324O1gZzDuMLzFT_F
+
+# SemEval2018 Task9 corpus
+# Guideline: for the sake of memory, here just download and unzip Subtask 2B: Music, and put it under data folder.
+https://competitions.codalab.org/competitions/17119#learn_the_details-terms_and_conditions

@@ -1,0 +1,21 @@
+
+python main.py --help
+
+# 1. HearstPatterns
+python main.py hearst --params True --dset test.hearst.txt --output ./Results/hearst.small.txt
+
+# 2. patternBased
+python main.py PPMI --output ./Results/Ppmi.pred.txt
+python main.py PPMISVD --params 20[,5,10,15,20,25,50,100,150,200,500] --output ./Results/PpmiSvd.pred.txt
+
+# 3. distributional
+python main.py dist --evaluate True
+
+# 4. Term Embedding
+python main.py embed --output ./Results/embed.pred.txt --evaluate True
+
+# 5. Projection Learning
+python main.py Projection[ --output ./Results/proj.semeval.txt] --evaluate True
+
+# 6. BiLSTM
+python main.py BiLSTM --output ./Results/BiLSTM.test.txt --evaluate True
