@@ -24,6 +24,7 @@ The code covers six parts: **a**. Manual hearst patterns;  **b**. Pattern-based 
 Each module mainly consists of data, preprocess, model, evaluator part. An *Untitled.ipynb* under each part gives a simple check how each module works.
 
 ## Training
+Here are some selected training procedure.
 - Projection learning training loss (left)
 - Bi-LSTM sequence labeling model training (right)
 
