@@ -18,8 +18,8 @@ Part of evaluation scores are shown as follows. <p>
   <img src="https://github.com/WillaFan/hypernymy-extraction/blob/master/_FILES_/pic_proj.png" width="550" alt="proj"/>
   
 # Performance
-The code covers six parts: **a**. Manual hearst patterns;  **b**. Pattern-based methods;  **c**. Distributional methods;
-			      **d**. Term embeddings;  **e**. Projection learning;  **f**. Bi-LSTM sequence labeling.
+The code covers six parts: a. **Manual hearst patterns**;  b. **Pattern-based methods**;  c. **Distributional methods**;
+			      d. **Term embeddings**;  e. **Projection learning**;  f. **Bi-LSTM sequence labeling**.
 
 Each module mainly consists of data, preprocess, model, evaluator part. An *Untitled.ipynb* under each part gives a simple check how each module works.
 
