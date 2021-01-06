@@ -7,8 +7,8 @@ This project is conducted under the topic of taxonomy learning in Natural Langua
 
 # Requirements
 Python 3 is required (3.7 is preferred). <p>
-Dependent packages include numpy, pandas, matplotlib, sklearn, scipy, pytorch, gensim, nltk. <p>
-commands.txt gives the list of commands about how to start.
+**Dependent packages** include `numpy`, `pandas`, `matplotlib`, `sklearn`, `scipy`, `pytorch`, `gensim`, `nltk`. <p>
+`commands.txt` gives the list of commands about how to start.
 
 # Demo
 See major hypernymy extraction results under ./Results folder, but only evaluation results are shown in report. <p>
