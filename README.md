@@ -11,7 +11,7 @@ Python 3 is required (3.7 is preferred). <p>
 [`commands.txt`](https://github.com/WillaFan/hypernymy-extraction/blob/master/commands.txt) gives the list of commands about how to start.
 
 # Demo
-See major hypernymy extraction results under ./Results folder, but only evaluation results are shown in report. <p>
+See major hypernymy extraction results under [./Results folder](https://github.com/WillaFan/hypernymy-extraction/tree/master/Results), but only evaluation results are shown in report. <p>
 Part of evaluation scores are shown as follows. <p>
   <img src="https://github.com/WillaFan/hypernymy-extraction/blob/master/_FILES_/pic_dih.png" width="550" alt="dih"/>
   <img src="https://github.com/WillaFan/hypernymy-extraction/blob/master/_FILES_/pic_termEmbed.png" width="550" alt="termEmbed"/>
@@ -21,7 +21,7 @@ Part of evaluation scores are shown as follows. <p>
 The code covers six parts: a. **Manual hearst patterns**;  b. **Pattern-based methods**;  c. **Distributional methods**;
 			      d. **Term embeddings**;  e. **Projection learning**;  f. **Bi-LSTM sequence labeling**.
 
-Each module mainly consists of data, preprocess, model, evaluator part. An *Untitled.ipynb* under each part gives a simple check how each module works.
+Each module mainly consists of data, preprocess, model, evaluator parts. An *Untitled.ipynb* under each part gives a simple check how each module works.
 
 ## Training
 Here are some selected training procedure.
